@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 I'm a big **hololive** lover (especially Natsuiro Matsuri🏮 and Shirakami Fubuki🌽) and like playing 🎮video games.  
 I'm Japanese, but I can speak some English.😉
 
-### 最近作ったもの / Latest works
-* ASMR sounds of hololive > [Link](https://3kanalpha.github.io/hololive-asmr/)
+### 作ったもの / My works
+* ASMR sounds of hololive > [Link](https://holoasmr.mgcup.net)
 * 白上フブキちゃん🌽に無限に好きって言ってもらうやつ > [Link](https://3kanalpha.github.io/fubuki-space/)
+* フブキボタン > [Link](https://fubuki.mgcup.net)
 
 ### 最近勉強しているもの / What I'm currently learning
-* Generative Deep Learning
+* Web開発の技術など…（Vue.js (Nuxt) / React (Next.js), Vite, etc...）
 
 ### Links
 * [Twitter](https://twitter.com/luigi_0829_2)
