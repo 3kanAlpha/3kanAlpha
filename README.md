@@ -27,11 +27,13 @@ I'm Japanese, but I can speak some English.😉
 * フブキボタン (非公式引き継ぎ) > [Link](https://fubuki.mgcup.net)
 
 ### 最近勉強しているもの / What I'm currently learning
-* Web開発の技術など…（Vue.js (Nuxt) / React (Next.js), Vite, etc...）
+* Webのバックエンド（Go）
+* CTF（特にPwn）
 
 ### Links
 * [Twitter](https://twitter.com/luigi_0829_2)
 * [数学とか学術的なことを書くブログ](https://mikan-alpha.hatenablog.com)
-* [ゆるいことなどを書くnote](https://note.com/m4gnett)
+* [日常的に使うブログ](https://new-file.hatenablog.com/)
+* [お気持ち記事用のnote](https://note.com/m4gnett)
 * [YouTubeチャンネル](https://www.youtube.com/channel/UCt8gpxbH3x4NlJ_3cPn1YvQ)
 * [osu!](https://osu.ppy.sh/users/20429487)
