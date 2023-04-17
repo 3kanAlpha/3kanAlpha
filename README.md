@@ -16,19 +16,16 @@ Here are some ideas to get you started:
 -->
 
 普通の日本人です。開発したりゲーマーをしたりしています。  
-ホロライブが好きで、夏色まつりちゃん🏮とか白上フブキちゃん🌽を追ったりしています。
+ホロライブが好きで、白上フブキちゃん🌽が好きです。たまに猫又おかゆちゃん🍙も見てます。
 
-I'm a big **hololive** lover (especially Natsuiro Matsuri🏮 and Shirakami Fubuki🌽) and like playing 🎮video games.  
+I'm a big **hololive** lover (especially Shirakami Fubuki🌽 and Nekomata Okayu🍙) and like playing 🎮video games.  
 I'm Japanese, but I can speak some English.😉
 
 ### 作ったものなど / My works
-* ASMR sounds of hololive > [Link](https://holoasmr.mgcup.net)
+* 読み上げフブちゃん (音声合成ソフト) > [Link](https://twitter.com/fbktts)
 * 遠征どこでもドア (Minecraft Mod) > [Link](https://github.com/3kanAlpha/dokodemo-door)
 * フブキボタン (非公式引き継ぎ) > [Link](https://fubuki.mgcup.net)
-
-### 最近勉強しているもの / What I'm currently learning
-* Webのバックエンド（Go）
-* CTF（特にPwn）
+* ~~ASMR sounds of hololive~~ (開発終了) > [Link](https://holoasmr.mgcup.net)
 
 ### Links
 * [Twitter](https://twitter.com/luigi_0829_2)
