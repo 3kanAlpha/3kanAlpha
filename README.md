@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 普通の日本人です。開発したりゲーマーをしたりしています。  
 ホロライブが好きで、白上フブキちゃん🌽が好きです。たまに猫又おかゆちゃん🍙も見てます。
 
-I'm a big **hololive** lover (especially Shirakami Fubuki🌽 and Nekomata Okayu🍙) and like playing 🎮video games.  
-I'm Japanese, but I can speak some English.😉
+I'm a big **hololive** lover (especially Shirakami Fubuki🌽 and Nekomata Okayu🍙) and like playing 🎮video games.
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,html,css,js,ts,nodejs,bun,vue,nuxtjs,supabase,go,cpp,vscode,linux,windows)](https://skillicons.dev)
 
 ### 作ったものなど / My works
-* 読み上げフブちゃん (音声合成ソフト) > [Link](https://twitter.com/fbktts)
+* IRmania > [Link](https://ir.mgcup.net)
 * 遠征どこでもドア (Minecraft Mod) > [Link](https://github.com/3kanAlpha/dokodemo-door)
 * フブキボタン (非公式引き継ぎ) > [Link](https://fubuki.mgcup.net)
 * ~~ASMR sounds of hololive~~ (開発終了) > [Link](https://holoasmr.mgcup.net)
@@ -33,4 +34,3 @@ I'm Japanese, but I can speak some English.😉
 * [日常的に使うブログ](https://new-file.hatenablog.com/)
 * [お気持ち記事用のnote](https://note.com/m4gnett)
 * [YouTubeチャンネル](https://www.youtube.com/channel/UCt8gpxbH3x4NlJ_3cPn1YvQ)
-* [osu!](https://osu.ppy.sh/users/20429487)
