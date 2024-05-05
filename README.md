@@ -38,6 +38,5 @@ Nuxt, Supabase, Cloudflare R2, Deno Deployを使用しています。
 ### Links
 * [Twitter](https://twitter.com/luigi_0829_2)
 * [数学とか学術的なことを書くブログ](https://mikan-alpha.hatenablog.com)
-* [日常的に使うブログ](https://new-file.hatenablog.com/)
+* [日記や普段のプログラミングなどについて書くブログ](https://new-file.hatenablog.com/)
 * [お気持ち記事用のnote](https://note.com/m4gnett)
-* [YouTubeチャンネル](https://www.youtube.com/channel/UCt8gpxbH3x4NlJ_3cPn1YvQ)
