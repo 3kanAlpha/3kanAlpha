@@ -22,9 +22,15 @@ I'm a big **hololive** lover (especially Shirakami Fubuki🌽 and Nekomata Okayu
 
 ### よく使う言語、フレームワークなど / My favorite languages, frameworks, etc.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,html,css,js,ts,nodejs,bun,vue,nuxtjs,supabase,go,cpp,vscode,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,ts,bun,react,nextjs,vue,nuxtjs,tailwind,supabase,go,cloudflare,aws,vscode,linux,windows)](https://skillicons.dev)
 
 ### 作ったものなど / My works
+#### Nestter
+[リポジトリ](https://github.com/3kanAlpha/nestter)
+
+現在開発中の、旧TwitterをベースにしたSNSです。  
+Next.js, Tailwind CSS, Cloudflare R2, AWS Lambdaなどを使用しています。
+
 #### IRmania
 [リポジトリ](https://github.com/3kanAlpha/kbd-mini-ir) / [Webサイト](https://ir.mgcup.net)
 
