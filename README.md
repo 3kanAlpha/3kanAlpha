@@ -39,7 +39,6 @@ Nuxt, Supabase, Cloudflare R2, Deno Deployを使用しています。
 
 #### その他
 * 遠征どこでもドア (Minecraft Mod) > [Link](https://github.com/3kanAlpha/dokodemo-door)
-* フブキボタン (非公式引き継ぎ) > [Link](https://fubuki.mgcup.net)
 
 ### Links
 * [Twitter](https://twitter.com/luigi_0829_2)
