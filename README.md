@@ -29,7 +29,7 @@ I'm a big **hololive** lover (especially Shirakami Fubuki🌽 and Nekomata Okayu
 [リポジトリ](https://github.com/3kanAlpha/nestter)
 
 現在開発中の、旧TwitterをベースにしたSNSです。  
-Next.js, Tailwind CSS, Cloudflare R2, AWS Lambdaなどを使用しています。
+Next.js, Tailwind CSS, PostgreSQL, Cloudflare R2, AWS Lambda / SQSなどを使用しています。
 
 #### IRmania
 [リポジトリ](https://github.com/3kanAlpha/kbd-mini-ir) / [Webサイト](https://ir.mgcup.net)
@@ -45,3 +45,4 @@ Nuxt, Supabase, Cloudflare R2, Deno Deployを使用しています。
 * [数学とか学術的なことを書くブログ](https://mikan-alpha.hatenablog.com)
 * [日記や普段のプログラミングなどについて書くブログ](https://new-file.hatenablog.com/)
 * [お気持ち記事用のnote](https://note.com/m4gnett)
+* [AtCoder](https://atcoder.jp/users/mikanalpha) (inactive)
