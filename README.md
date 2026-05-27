@@ -38,10 +38,12 @@ Next.js, Tailwind CSS, PostgreSQL, Drizzle ORMなどを使用しています。
 Next.js, Tailwind CSS, PostgreSQL, Cloudflare R2, AWS Lambda / SQSなどを使用しています。
 
 #### IRmania
-[リポジトリ](https://github.com/3kanAlpha/kbd-mini-ir) / [Webサイト](https://ir.mgcup.net)
+[リポジトリ](https://github.com/3kanAlpha/re-irmania) / [Webサイト](https://iir.mgcup.net)
 
 サークル内向けに開発した、音ゲーで気軽に大会を開くためのプラットフォームです。  
-Nuxt, Supabase, Cloudflare R2, Deno Deployを使用しています。
+Next.js, Supabase, Cloudflare R2, Deno Deployを使用しています。
+
+旧仕様ではNuxtを使用して開発していました。
 
 #### その他
 * 遠征どこでもドア (Minecraft Mod) > [Link](https://github.com/3kanAlpha/dokodemo-door)
